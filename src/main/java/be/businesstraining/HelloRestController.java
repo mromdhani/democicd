@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloRestController {
     @GetMapping
     public String sayHello() {
-        return "Hello hello, I am served by Tomcat, A NEW VERSION IS HERE ....";
+        return "Hello hello, Bienvenue Cheikh dans CI/CD ....";
     }
 }
